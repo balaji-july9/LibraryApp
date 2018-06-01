@@ -1,0 +1,11 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 5;
+    list-style: none;
+    }
+
+li a {
+text-transform: inherit;
+font-size: 15px;
+
+}
